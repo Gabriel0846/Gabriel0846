@@ -20,7 +20,7 @@
   <img align="center" alt="Gabriel-TypeScript" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Gabriel-Raspberrypi" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
   <img align="center" alt="Gabriel-Python" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="right" alt="gif_dispenser" height="90" width"30" src="https://github.com/Gabriel0846/Gabriel0846/blob/main/icone.gif">
+  <img align="right" alt="gif_dispenser" height="90" width"30" src="https://github.com/Gabriel0846/Gabriel0846/blob/main/matrix.gif">
 </div>
   
 <div><br>
