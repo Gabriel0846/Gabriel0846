@@ -20,11 +20,12 @@
   <img align="center" alt="Gabriel-TypeScript" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Gabriel-Raspberrypi" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
   <img align="center" alt="Gabriel-Python" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="right" alt="gif_moeda" height="50" width"50" src="https://github.com/Gabriel0846/Gabriel0846/blob/main/coin.gif">
 </div>
   
 <div><br>
   <a href="https://br.linkedin.com/in/gabriel-lopes-9169aa202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_bank"</a>
 
   
-  <a align="right" alt="gif_moeda" src="https://drive.google.com/file/d/1JYlUzGXbR-0yoLw-8ZaFVXfSnRvlKVtr/view?usp=sharing"></a>
+  
 </div>
