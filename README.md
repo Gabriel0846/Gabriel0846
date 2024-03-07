@@ -13,6 +13,7 @@
 
 <div style="display: inline_black"><br>
   <img align="center" alt="Gabriel-Spring" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="Gabriel-Postman" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img align="center" alt="Gabriel-Angular" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="Gabriel-HTML" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Gabriel-SCSS" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
@@ -25,5 +26,5 @@
   <a href="https://br.linkedin.com/in/gabriel-lopes-9169aa202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_bank"</a>
 
   
-  <a align="right" alt="gif_moeda" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7f5dad42-685c-4f31-94df-c87c3e7373d6/daonr3k-c7945a72-3841-407a-8163-cae16afa2eee.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdmNWRhZDQyLTY4NWMtNGYzMS05NGRmLWM4N2MzZTczNzNkNlwvZGFvbnIzay1jNzk0NWE3Mi0zODQxLTQwN2EtODE2My1jYWUxNmFmYTJlZWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4Cvf4MacKzs2Swfgz5n9cD0tu4akZYCuC1u6v3YTrmc"></a>
+  <a align="right" alt="gif_moeda" src="https://drive.google.com/file/d/1JYlUzGXbR-0yoLw-8ZaFVXfSnRvlKVtr/view?usp=sharing"></a>
 </div>
