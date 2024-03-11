@@ -1,6 +1,6 @@
 ### Hello World!
 
-- 🔭 Hoje estou trabalhando com FullStack
+- 🔭 Trabalhando com FullStack
 - 🌱 Estudando Angular, Java e Python
 - 🔧 iniciante em eletrônica e RaspberryPI
 - 😄 Pronouns: They/Don't know me
