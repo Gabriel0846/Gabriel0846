@@ -3,7 +3,7 @@
 - 🔭 Trabalhando com FullStack
 - 🌱 Estudando Angular, Java e Python
 - 🔧 iniciante em eletrônica e RaspberryPI
-- 😄 Pronouns: They/Don't know me
+- :feelsgood: Pronouns: They/Don't know me
 
 <div>
   <a href="https://beacons.ai/Gabriel0846">
