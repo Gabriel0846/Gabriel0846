@@ -4,6 +4,7 @@
 - 🌱 Estudando Angular, Spring e Python
 - 🔧 iniciante em eletrônica e RaspberryPI
 - 👥 Pronouns: They/Don't know me
+- 📘 Cursando Ciência da computação
 
 <div>
   <a href="https://beacons.ai/Gabriel0846">
