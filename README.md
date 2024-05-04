@@ -12,6 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0846&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+Algumas ferramentas e linguagens que utilizo em meus projetos e estudos:
 <div style="display: inline_black"><br>
   <img align="center" alt="Gabriel-Spring" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="Gabriel-Postman" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
