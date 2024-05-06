@@ -29,6 +29,7 @@
 </div>
   
 <div><br>
+  <p>Siga-me nas redes sociais:</p>
   <a href="https://br.linkedin.com/in/gabriel-lopes-9169aa202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_bank"</a>
 </div>
 
