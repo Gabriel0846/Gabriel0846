@@ -1,10 +1,11 @@
 ### Hello World!
 
 - 🔭 Trabalhando com FullStack
-- 🌱 Estudando Angular, Spring e Python
-- 🔧 iniciante em eletrônica e RaspberryPI
+- 🌱 Estudando Python e AutoHotKey
+- 💻 Desenvolvimento Web com Angular e Spring
+- ⚡ Iniciante em Anduino e Raspberry pi
+- - 📘 Cursando Ciência da computação
 - 👥 Pronouns: They/Don't know me
-- 📘 Cursando Ciência da computação
 
 <div>
   <a href="https://beacons.ai/Gabriel0846">
