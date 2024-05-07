@@ -4,7 +4,7 @@
 - 🌱 Estudando Python e AutoHotKey
 - 💻 Desenvolvimento Web com Angular e Spring
 - ⚡ Iniciante em Anduino e Raspberry pi
-- - 📘 Cursando Ciência da computação
+- 📘 Cursando Ciência da computação
 - 👥 Pronouns: They/Don't know me
 
 <div>
