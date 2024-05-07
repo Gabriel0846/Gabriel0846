@@ -22,6 +22,7 @@
   <img align="center" alt="Gabriel-SCSS" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img align="center" alt="Gabriel-TypeScript" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Gabriel-Raspberrypi" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+  <img align="center" alt="Gabriel-Arduino" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Gabriel-Python" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Gabriel-MySql" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Gabriel-SqlDeveloper" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
