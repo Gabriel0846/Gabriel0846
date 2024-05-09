@@ -1,6 +1,6 @@
 ### Hello World!
 
-- 🔭 Trabalhando com FullStack
+- 🔭 Trabalhando com FullStack e Automação 
 - 🌱 Estudando Python e AutoHotKey
 - 💻 Desenvolvimento Web com Angular e Spring
 - ⚡ Iniciante em Anduino e Raspberry pi
