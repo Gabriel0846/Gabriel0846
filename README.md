@@ -1,8 +1,8 @@
 ### Hello World!
 
-- 🔭 Trabalhando com FullStack e Automação 
+- 🔭 Trabalhando com Excel e Automação 
 - 🌱 Estudando Python e AutoHotKey
-- 💻 Desenvolvimento Web com Angular e Spring
+- 💻 Desenvolvimento Web Fullstack com Angular e Spring
 - ⚡ Iniciante em Anduino e Raspberry pi
 - 📘 Cursando Ciência da computação
 - 👥 Pronouns: They/Don't know me
