@@ -1,11 +1,13 @@
 ### Hello World!
 
-- 🔭 Trabalhando com Excel e Automação 
-- 🌱 Estudando Python e AutoHotKey
+- 🔭 Trabalho atualmente com Excel, Backup e Automação 
+- 🌱 Estudando Shell script
 - 💻 Desenvolvimento Web Fullstack com Angular e Spring
-- ⚡ Iniciante em Anduino e Raspberry pi
+- 🤖 Automação usando Python, Shell script e VBA
+- ⚡ Iniciante em eletronica e conserto de aparelhos
 - 📘 Cursando Ciência da computação
 - 👥 Pronouns: They/Don't know me
+- 👾 CODE_THE_WORLD!
 
 <div>
   <a href="https://beacons.ai/Gabriel0846">
@@ -14,7 +16,7 @@
 </div>
 
 <div style="display: inline_black"><br>
-  <p>Algumas ferramentas e linguagens que utilizo em meus projetos e estudos:</p>
+  <p>Algumas ferramentas e linguagens que utilizo em meus projetos e no dia a dia:</p>
   <img align="center" alt="Gabriel-Spring" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="Gabriel-Postman" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img align="center" alt="Gabriel-Angular" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
@@ -28,6 +30,8 @@
   <img align="center" alt="Gabriel-SqlDeveloper" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img align="center" alt="Gabriel-SqlLite" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="Gabriel-VisualStudio" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+  <img align="center" alt="Gabriel-Bash" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+
   <img align="right" alt="gif_matrix" height="90" width"30" src="https://github.com/Gabriel0846/Gabriel0846/blob/main/matrix.gif">
 </div>
   
