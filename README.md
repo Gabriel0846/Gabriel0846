@@ -31,10 +31,10 @@
   <img align="center" alt="Gabriel-SqlLite" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="Gabriel-VisualStudio" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   <img align="center" alt="Gabriel-Bash" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-
-  <img align="right" alt="gif_matrix" height="90" width"30" src="https://github.com/Gabriel0846/Gabriel0846/blob/main/matrix.gif"/>
 </div>
-  
+<div>
+  <img align="center" alt="gif_matrix" height="90" width"90" src="https://github.com/Gabriel0846/Gabriel0846/blob/main/matrix.gif">
+</div>
 <div><br>
   <p>Siga-me nas redes sociais:</p>
   <a href="https://br.linkedin.com/in/gabriel-lopes-9169aa202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_bank"</a>
