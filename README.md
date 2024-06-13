@@ -35,7 +35,7 @@
 </div>
 
 <div style="width: 100%; height: 28px; overflow: hidden;">
-  <img src="https://github.com/Gabriel0846/Gabriel0846/blob/main/matrix.gif" style="width: 100%; height: auto;" alt="gif_matrix">
+  <img src="https://github.com/Gabriel0846/Gabriel0846/blob/main/matrix.gif" style="width: 100%; height: 100%; object-fit: cover;" alt="gif_matrix">
 </div>
 
 <div><br>
