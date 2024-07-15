@@ -4,10 +4,10 @@
 - 🔭 Trabalho atualmente com Excel, Backup e Automação 
 - 🌱 Estudando Shell script
 - 💻 Desenvolvimento Web Fullstack com Angular e Spring
-- 🤖 Automação usando Python, Shell script e VBA
+- 🤖 Automação usando Python, AutoHotKey, Shell script e VBA
 - ⚡ Iniciante em eletronica e conserto de aparelhos
-- 📘 Cursando Ciência da computação
-- 👥 Pronouns: They/Don't know me
+- 📘 Cursando: Ciência da computação
+- 👥 Pronomes: They/Don't know me
 - 👾 CODE_THE_WORLD!
 
 <div>
