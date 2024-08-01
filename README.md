@@ -7,7 +7,6 @@
 - 🤖 Automação usando Python, AutoHotKey, Shell script e VBA
 - ⚡ Iniciante em eletronica e conserto de aparelhos
 - 📘 Cursando: Ciência da computação
-- 👥 Pronomes: They/Don't know me
 - 👾 CODE_THE_WORLD!
 
 <div>
