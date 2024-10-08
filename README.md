@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 Trabalho atualmente com Excel, Backup e Automação 
-- 🌱 Estudando Shell script
+- 🌱 Estudando powershell
 - 💻 Desenvolvimento Web Fullstack com Angular e Spring
 - 🤖 Automação usando Python, AutoHotKey, Shell script e VBA
 - ⚡ Iniciante em eletronica e conserto de aparelhos
