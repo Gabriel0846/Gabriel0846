@@ -32,6 +32,7 @@
   <img align="center" alt="Gabriel-SqlLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="Gabriel-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   <img align="center" alt="Gabriel-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img align="center" alt="Gabriel-Powershell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />          
 </div>
 
 <div><br>
