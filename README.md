@@ -1,26 +1,8 @@
-# 🔴 Gabriel Lopes
+<div align="center" style="border: 2px solid #ff0000; border-radius: 12px; padding: 20px; margin: 10px;">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabriel0846&color=ff0000&style=flat-square&label=VISUALIZAÇÕES" alt="contador de visitas" />
-</p>
+# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=36&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=500&lines=Gabriel+Lopes;Hello+World!;Bye+Bye" alt="Typing Animation" />
 
-<p align="center">
-  <strong>[ SYSTEM ONLINE ] — [ PERFIL DO GITHUB ] — [ CÓDIGO E CAOS ]</strong>
-</p>
-
----
-
-## 🔥 SOBRE MIM
-
-- 🔭 Trabalho com **Excel, Backup e Automação**
-- 🌱 Estudando **PowerShell**
-- 💻 Fullstack: **Angular + Spring**
-- 🤖 Automação: **Python, AutoHotKey, Shell, VBA**
-- ⚡ Iniciante em **eletrônica e conserto**
-- 📘 Cursando: **Ciência da Computação**
-- 👾 **CODE_THE_WORLD!**
-
----
+<br>
 
 ## 📊 ESTATÍSTICAS DO SISTEMA
 
@@ -68,3 +50,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=80&section=footer" />
 </p>
+
+</div>
