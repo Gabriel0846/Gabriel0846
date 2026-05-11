@@ -1,6 +1,6 @@
-<div align="center" style="border: 2px solid #ff0000; border-radius: 12px; padding: 20px; margin: 10px;">
+<div align="center" style="border: 3px solid #ff0000; border-radius: 16px; padding: 30px 20px; margin: 20px auto; width: 90%; box-shadow: 0 0 10px #ff0000;">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=36&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=500&lines=Gabriel+Lopes;Hello+World!;Bye+Bye" alt="Typing Animation" />
+# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=36&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=550&lines=Gabriel+Lopes;Hello+World;Bye+Bye+World" alt="Typing Animation" />
 
 <br>
 
