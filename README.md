@@ -1,19 +1,22 @@
-<div align="center" style="border: 3px solid #ff0000; border-radius: 16px; padding: 30px 20px; margin: 20px auto; width: 90%; box-shadow: 0 0 10px #ff0000;">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=36&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=550&lines=Gabriel+Lopes;Hello+World;Bye+Bye+World" alt="Typing Animation" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gabriel0846&color=ff0000&style=flat-square&label=VISUALIZACOES" alt="contador de visitas" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=36&pause=600&color=FF0000&center=true&vCenter=true&repeat=true&width=200&lines=Hello;Bye+Bye" alt="Hello/Bye" />
+  <span> </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=36&pause=1800&color=FF0000&center=true&vCenter=true&repeat=true&width=200&lines=World;World;World" alt="World" />
+</p>
 
-## 📊 ESTATÍSTICAS DO SISTEMA
+## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel0846&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0846&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel0846&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel0846&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9&hide_border=true&hide=html,css" />
 </div>
 
----
-
-## 🧰 ARSENAL CIENTÍFICO
+## 🧰 Arsenal Científico
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=black&labelColor=ff0000" />
@@ -32,12 +35,10 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black&labelColor=ff0000" />
 </p>
 
----
-
-## 📡 CONEXÕES
+## 📡 Conexões
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/gabriel-lopes-9169aa202" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-lopes-9169aa202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black&labelColor=ff0000" />
   </a>
   <a href="https://instagram.com/seu_usuario" target="_blank">
@@ -48,7 +49,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=80&section=footer" />
+  Feito com 💙 e código por Gabriel Lopes
 </p>
-
-</div>
