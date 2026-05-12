@@ -1,5 +1,10 @@
 <div align="center" style="border: 3px solid #ff0000; border-radius: 16px; padding: 20px; margin: 20px auto; max-width: 95%; background-color: #0d1117;">
 
+  <!-- Contador de visitas -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Gabriel0846&color=ff0000&style=for-the-badge&label=VISITAS" alt="Contador de visitas" />
+  </p>
+
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=36&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=450&lines=Hello+World!;Bye+Bye+World!+%F0%9F%92%80" alt="Hello / Bye Bye" />
   </h1>
@@ -9,8 +14,8 @@
   <h2 style="color: #ff0000;">📊 ESTATÍSTICAS</h2>
   <div>
     <a href="https://beacons.ai/Gabriel0846" target="_blank">
-      <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel0846&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true" />
-      <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel0846&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9&hide_border=true" />
+      <img height="180em" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+      <img height="180em" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
     </a>
   </div>
 
@@ -41,8 +46,11 @@
     <a href="https://www.linkedin.com/in/gabriel-lopes-9169aa202/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black&labelColor=ff0000" />
     </a>
-    <a href="https://instagram.com/gabriel0846" target="_blank">
+    <a href="https://instagram.com/seu_usuario" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black&labelColor=ff0000" />
+    </a>
+    <a href="https://beacons.ai/Gabriel0846" target="_blank">
+      <img src="https://img.shields.io/badge/-Beacons-FF0000?style=for-the-badge&logo=beacons&logoColor=white&labelColor=black" />
     </a>
   </p>
 
