@@ -49,9 +49,6 @@
     <a href="https://instagram.com/seu_usuario" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black&labelColor=ff0000" />
     </a>
-    <a href="https://beacons.ai/Gabriel0846" target="_blank">
-      <img src="https://img.shields.io/badge/-Beacons-FF0000?style=for-the-badge&logo=beacons&logoColor=white&labelColor=black" />
-    </a>
   </p>
 
   <p align="center">
