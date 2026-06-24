@@ -200,7 +200,7 @@
           data-testid="lang-progress"
           x="241.18"
           y="0"
-          width="18.82"
+          width="18.810000000000002"
           height="8"
           fill="#012456"
         />
@@ -260,7 +260,7 @@
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#012456" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell 3.53%
+        PowerShell 3.52%
       </text>
     </g>
   </g></g>
