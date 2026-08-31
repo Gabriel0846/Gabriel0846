@@ -14,8 +14,8 @@
   <h2 style="color: #ff0000;">📊 ESTATÍSTICAS</h2>
   <div>
     <a href="https://beacons.ai/Gabriel0846" target="_blank">
-      <img height="180em" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
-      <img height="180em" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel0846&show_icons=true&count_private=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9"alt="Estatísticas do GitHub" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0846&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9" alt="Linguagens mais usadas" />
     </a>
   </div>
 
