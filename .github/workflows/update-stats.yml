@@ -16,6 +16,69 @@ jobs:
       - name: "1. Clonar o repositório"
         uses: actions/checkout@v4
 
+      - name: "2. Gerar SVGs com retry e cache"
+        run: |
+          mkdir -p profile
+          
+          # Tenta 3 vezes com espera entre tentativas
+          for i in 1 2 3; do
+            echo "Tentativa $i..."
+            
+            curl -L -o profile/stats.svg \
+              "https://github-readme-stats.anuraghazra1.vercel.app/api?username=Gabriel0846&show_icons=true&count_private=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9" \
+              --max-time 30
+            
+            curl -L -o profile/top-langs.svg \
+              "https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gabriel0846&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9" \
+              --max-time 30
+            
+            # Verifica se os arquivos são SVGs válidos
+            if grep -q "<svg" profile/stats.svg 2>/dev/null && grep -q "<svg" profile/top-langs.svg 2>/dev/null; then
+              echo "✅ SVGs gerados com sucesso!"
+              break
+            else
+              echo "❌ SVGs inválidos, tentando novamente..."
+              sleep 5
+            fi
+          done
+
+      - name: "3. Verificar arquivos"
+        run: |
+          echo "📁 Arquivos gerados:"
+          ls -la profile/
+          
+          echo ""
+          echo "📄 Primeiras linhas do stats.svg:"
+          head -5 profile/stats.svg || echo "Arquivo vazio!"
+          
+          echo ""
+          echo "📄 Primeiras linhas do top-langs.svg:"
+          head -5 profile/top-langs.svg || echo "Arquivo vazio!"
+
+      - name: "4. Commitar"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Atualizar estatísticas [skip ci]" || exit 0
+          git pushname: "Atualizar Estatísticas do README"
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"  # Roda toda segunda-feira
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: "Gerar Cartões SVG"
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: "1. Clonar o repositório"
+        uses: actions/checkout@v4
+
       - name: "2. Gerar card de estatísticas usando curl"
         run: |
           mkdir -p profile
